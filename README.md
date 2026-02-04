@@ -1,6 +1,5 @@
 # 💫 About Me:
-I’m currently working on a Blazor-based .NET full-stack application using SQL and Angular, Python, involving multiple microservices, advanced database querying, background jobs, performance optimization, caching, authentication and authorization, search capabilities using OpenSearch and Elasticsearch, and efficient use of data structures.
-
+I’m a full-stack developer working on .NET applications using SQL, and Angular, with strong skills in Python and Java. My work focuses on microservices architecture, optimized database access, background processing, caching strategies, authentication and authorization, search implementations using OpenSearch and Elasticsearch, and applying efficient data structures to ensure performance and scalability.
 I’m looking to collaborate on open-source projects to strengthen my backend engineering skills and gain hands-on experience in machine learning.
 
 
